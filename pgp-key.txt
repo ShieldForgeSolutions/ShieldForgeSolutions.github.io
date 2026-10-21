@@ -1,3 +1,0 @@
------BEGIN PGP PUBLIC KEY BLOCK-----
-PLACEHOLDER - replace with Patrick's real public key (gpg --armor --export you@example.com)
------END PGP PUBLIC KEY BLOCK-----
